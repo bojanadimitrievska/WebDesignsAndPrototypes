@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\mk",
+    "\\src\\main\\java\\mk\\ukim",
+    "\\src\\main\\java\\mk\\ukim\\finki",
+    "\\src\\main\\java\\mk\\ukim\\finki\\wp",
+    "\\src\\main\\java\\mk\\ukim\\finki\\wp\\kol2022",
+    "\\src\\main\\java\\mk\\ukim\\finki\\wp\\kol2022\\g3",
+    "\\src\\main\\java\\mk\\ukim\\finki\\wp\\kol2022\\g3\\service",
+    "\\src\\main\\java\\mk\\ukim\\finki\\wp\\kol2022\\g3\\service\\impl"
+  ],
+  "SelectedNode": "\\src\\main\\java\\mk\\ukim\\finki\\wp\\kol2022\\g3\\service\\impl\\ForumUserServiceImpl.java",
+  "PreviewInSolutionExplorer": false
+}
